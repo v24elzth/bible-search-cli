@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="To Do List CLI Banner" width="100%">
+</p>
+
 # 📖 Bible Search CLI (Multilingual)
 
 A command-line Bible application using CSV files with keyword search, sorting, bookmarks, and multilingual support (English & Indonesian). Created as a university project at Calvin Institute of Technology.
