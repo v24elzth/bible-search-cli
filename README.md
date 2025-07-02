@@ -29,6 +29,7 @@ A command-line Bible application using CSV files with keyword search, sorting, b
 ## 🚀 How to Run
 
 Make sure Python is installed.
+And also, you have to install the bible csv, use KJV for English version and LAI-TB for the Indonesian
 
 ```bash
 python new.py
